@@ -1,2 +1,7 @@
-# MCA
-\[Enter your responses to Week 1, tasks 2 and 3 here\]
+# Jenny's first website
+i love learning about websites 
+
+i dont really know what I'm doing but  
+
+# I'm excited
+
