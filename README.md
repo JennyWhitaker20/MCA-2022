@@ -12,7 +12,5 @@ The music for the film "La La Land" is composed of original score and songs, whi
 
 I decided to choose this topic for my dataset as La La Land is one of my favourote films, making me very familiar woth the music having listened to it and played it on numerous occasions, I believe that my familiarity with the topic will not only motivate me to complete these tasks but help me to do them successfully. 
 
-## Task 2: Current manifestations of data relating to my dataset
 
-###### descriptive data 
 
